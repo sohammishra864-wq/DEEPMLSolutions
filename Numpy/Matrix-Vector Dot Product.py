@@ -8,3 +8,4 @@ def matrix_dot_vector(a: list[list[int | float]], b: list[int | float]) -> list[
             dot = dot + row[j] * b[j]
         result.append(dot)
     return result
+# NO PYTORCH N ALL ONLY PYTHON PYTORCH N ALL WILL BE IN DIFF DIRECTORY 
